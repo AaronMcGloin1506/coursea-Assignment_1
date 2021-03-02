@@ -29,11 +29,13 @@
     color: #0f0f0f;
 }
 
+/* padding to allow space for navbar */
 body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
 }
 
+/* navbar color */
 .navbar-dark {
     background-color: #512DA8;
 }
